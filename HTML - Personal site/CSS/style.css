@@ -1,0 +1,46 @@
+
+  body {
+    background-color: powderblue;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    height: 1px;
+    border-width: 5px;
+    width: 7%;
+    border-color: grey;
+  }
+  .container {
+    flex-wrap: wrap;
+    display: flex;
+  }
+
+  h1, h3{
+    color: #66BFBF;
+  }
+  h1 {
+    text-transform: uppercase;
+  }
+
+img{
+  background-color: red;
+  border-radius: 15px;
+
+}
+
+table {
+  width: 100%;
+}
+.left-container {
+    flex: 50%;
+
+}
+.right-container {
+  flex: 50%;
+}
+
+@media (max-width: 550px) {
+  .right-container, .left-container {
+    flex: 100%;
+  }
+}

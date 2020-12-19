@@ -1,0 +1,15 @@
+1. Website to store your picture on internet and get the URL: https://app.photobucket.com/
+
+2. Website to get different emojis and much more..
+https://unicode-table.com/en/
+
+3. How to get emojis in windows?
+use window keyboard "touch keyboard button " in taskbar
+
+4. For Documentation for any web Development
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+  
+
+5. Website to get idea and get hexCode of color for Webpages
+ https://colorhunt.co/
+   

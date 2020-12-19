@@ -1,0 +1,35 @@
+/*******************************TAG SELECTOR ****************************************/
+
+body{
+}
+
+p:first-child {
+	color: pink;
+}
+
+img {
+	background-color: red;
+}
+img:first-child {
+	background-color: green;
+}
+
+img:hover{
+	background-color: gold;
+}
+
+/*******************************CLASS SELECTOR ****************************************/
+.head {
+	color: red;
+	font-size: 20px;
+}
+.circular {
+	border-radius: 100%
+}
+
+/*******************************ID  SELECTOR ****************************************/
+#heading{
+	text-transform: uppercase;
+	font-size: 100px;
+	/*color: blue;*/
+}
